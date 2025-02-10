@@ -1,0 +1,43 @@
+
+        <html>
+            <head>
+                <style>
+                    body { font-family: Arial, sans-serif; }
+                    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+                    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                    th { background-color: #f2f2f2; }
+                </style>
+            </head>
+            <body>
+                <h1>Inventory Report</h1>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Category</th>
+                            <th>SubCategory</th>
+                            <th>Cost</th>
+                            <th>SupplierID</th>
+                            <th>Quantity</th>
+                            <th>ItemAddDate</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Item A</td>
+                            <td>Description A</td>
+                            <td>Category A</td>
+                            <td>SubCategory A</td>
+                            <td>$100</td>
+                            <td>Supplier A</td>
+                            <td>10</td>
+                            <td>2025-01-06 12:26:00</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </body>
+        </html>
+    

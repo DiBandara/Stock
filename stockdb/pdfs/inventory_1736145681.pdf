@@ -1,0 +1,108 @@
+
+    <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; }
+                table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+            </style>
+        </head>
+        <body>
+            <h1>Inventory Report</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Category</th>
+                        <th>SubCategory</th>
+                        <th>Cost</th>
+                        <th>SupplierID</th>
+                        <th>Quantity</th>
+                        <th>ItemAddDate</th>
+                    </tr>
+                </thead>
+                <tbody>
+        <tr>
+            <td>41</td>
+            <td>CR single rule</td>
+            <td>page 200</td>
+            <td>Stationary</td>
+            <td>Book</td>
+            <td>282.50</td>
+            <td>4458</td>
+            <td>20</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>cellotaph </td>
+            <td>2 inch (100m)</td>
+            <td>Now Stationary</td>
+            <td>Other</td>
+            <td>152.95</td>
+            <td>4458</td>
+            <td>10</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>Pen</td>
+            <td>blue</td>
+            <td>Stationary</td>
+            <td>Writing Item</td>
+            <td>26.75</td>
+            <td>4458</td>
+            <td>350</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>Pen </td>
+            <td>Red</td>
+            <td>Stationary</td>
+            <td>Writing Item</td>
+            <td>26.75</td>
+            <td>4458</td>
+            <td>50</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>A4</td>
+            <td>JK 75 gsr</td>
+            <td>Stationary</td>
+            <td>Paper</td>
+            <td>1162.50</td>
+            <td>4459</td>
+            <td>50</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>Stapler </td>
+            <td>pin</td>
+            <td>Now Stationary</td>
+            <td>Other</td>
+            <td>39.00</td>
+            <td>4459</td>
+            <td>30</td>
+            <td>2024-12-11</td>
+        </tr>
+        <tr>
+            <td>49</td>
+            <td>ty</td>
+            <td>yr</td>
+            <td>Machine Items</td>
+            <td>Ribbon</td>
+            <td>765.00</td>
+            <td>4458</td>
+            <td>57</td>
+            <td>2024-12-18</td>
+        </tr>
+                </tbody>
+            </table>
+        </body>
+    </html>
